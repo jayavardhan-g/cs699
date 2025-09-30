@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Edited by Jay2
 This is the second line
 This is third line
